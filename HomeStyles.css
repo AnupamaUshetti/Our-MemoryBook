@@ -90,6 +90,26 @@ h1 {
     box-shadow: 0 0 15px rgba(255, 20, 147, 0.5);
 }
 
+ /* Heart Animation Styles */
+ .heart {
+    position: fixed;
+    user-select: none;
+    color: #FF1493;
+    z-index: 0;
+    animation: fall linear;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    opacity: 0.8;
+}
+
+@keyframes fall {
+    from {
+        transform: translateY(-100vh) rotate(0deg);
+    }
+    to {
+        transform: translateY(100vh) rotate(360deg);
+    }
+}
+
 @media (max-width: 768px) {
     .btn-container {
         flex-direction: column;
