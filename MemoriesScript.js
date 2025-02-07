@@ -75,26 +75,6 @@ const galleryPhotos = [
   {
       imgSrc: '/images/memories/great_satisfaction.jpeg',
       description: 'City lights at night'
-  },
-  {
-      imgSrc: '/images/memories/pinky_promises.jpg',
-      description: 'bla'
-  },
-  {
-      imgSrc: '/images/memories/gift_that_make_you_happy.jpg',
-      description: 'Beautiful sunset at the beach'
-  },
-  {
-      imgSrc: '/images/memories/rabbit_head.jpg',
-      description: 'Mountain landscape in autumn'
-  },
-  {
-      imgSrc: '/images/memories/snap_to_remember.jpg',
-      description: 'City lights at night'
-  },
-  {
-      imgSrc: '/images/memories/little_things_makeMeHappy.jpg',
-      description: 'bla'
   }
 ];
 

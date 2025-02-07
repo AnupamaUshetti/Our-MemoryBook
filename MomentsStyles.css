@@ -7,7 +7,7 @@
 body {
     min-height: 100vh;
     background: linear-gradient(135deg, #ffd1dc, #f7cac9);
-    background-image: url(/images/memories/memoriesBackground.jpg);
+    background-image: url(/images/moments/momentsBackground.jpg);
     background-size: cover;
     background-position: center;
     padding: 2rem;

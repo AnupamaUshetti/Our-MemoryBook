@@ -1,99 +1,35 @@
 // Array of photos with their descriptions
 const galleryPhotos = [
     {
-        imgSrc: '/images/memories/first_photo.jpg',
+        imgSrc: '/images/moments/galleface.jpg',
         description: 'Beautiful sunset at the beach'
     },
     {
-        imgSrc: '/images/memories/our_first_call.jpeg',
+        imgSrc: '/images/moments/first_royal_event.jpg',
         description: 'Mountain landscape in autumn'
     },
     {
-        imgSrc: '/images/memories/viva_kiss.jpg',
+        imgSrc: '/images/moments/selfie_time.jpg',
         description: 'City lights at night'
     },
     {
-        imgSrc: '/images/memories/video_calls.jpg',
+        imgSrc: '/images/moments/chill_duo.jpg',
         description: 'bla'
     },
     {
-      imgSrc: '/images/memories/Sure my queen.jpg',
+      imgSrc: '/images/moments/rio.jpeg',
       description: 'Beautiful sunset at the beach'
     },
     {
-        imgSrc: '/images/memories/first_gift_forMe.jpg',
+        imgSrc: '/images/moments/gal_beach.jpg',
         description: 'Mountain landscape in autumn'
     },
     {
-        imgSrc: '/images/memories/different_icecream.jpg',
+        imgSrc: '/images/moments/bandi_full.jpeg',
         description: 'City lights at night'
     },
     {
-        imgSrc: '/images/memories/my_little_pookie.jpeg',
-        description: 'bla'
-    },
-    {
-        imgSrc: '/images/memories/happy_birthday_sweetheart.jpg',
-        description: 'Beautiful sunset at the beach'
-    },
-    {
-        imgSrc: '/images/memories/birthday_gift_forHer.jpg',
-        description: 'Mountain landscape in autumn'
-    },
-    {
-        imgSrc: '/images/memories/birthday_cards.jpg',
-        description: 'City lights at night'
-    },
-    {
-        imgSrc: '/images/memories/pinky_promises.jpg',
-        description: 'bla'
-    },
-    {
-        imgSrc: '/images/memories/gift_that_make_you_happy.jpg',
-        description: 'Beautiful sunset at the beach'
-    },
-    {
-        imgSrc: '/images/memories/rabbit_head.jpg',
-        description: 'Mountain landscape in autumn'
-    },
-    {
-        imgSrc: '/images/memories/snap_to_remember.jpg',
-        description: 'City lights at night'
-    },
-    {
-        imgSrc: '/images/memories/little_things_makeMeHappy.jpg',
-        description: 'bla'
-    },
-    {
-        imgSrc: '/images/memories/not_just_wallpaper.jpg',
-        description: 'Beautiful sunset at the beach'
-    },
-    {
-        imgSrc: '/images/memories/flower_girl.jpg',
-        description: 'Mountain landscape in autumn'
-    },
-    {
-        imgSrc: '/images/memories/great_satisfaction.jpeg',
-        description: 'City lights at night'
-    },
-    {
-        imgSrc: '/images/memories/pinky_promises.jpg',
-        description: 'bla'
-    },
-    {
-        imgSrc: '/images/memories/gift_that_make_you_happy.jpg',
-        description: 'Beautiful sunset at the beach'
-    },
-    {
-        imgSrc: '/images/memories/rabbit_head.jpg',
-        description: 'Mountain landscape in autumn'
-    },
-    {
-        imgSrc: '/images/memories/snap_to_remember.jpg',
-        description: 'City lights at night'
-    },
-    {
-        imgSrc: '/images/memories/little_things_makeMeHappy.jpg',
+        imgSrc: '/images/moments/sleeping _baby.jpeg',
         description: 'bla'
     }
   ];
