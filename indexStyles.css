@@ -138,31 +138,6 @@ h1 {
     animation: pulse 1s infinite;
 }
 
-@media (max-width: 768px) {
-    .countdown {
-        grid-template-columns: repeat(3, 1fr);
-    }
-    .time-block {
-        padding: 1rem;
-    }
-    .number {
-        font-size: 2rem;
-    }
-    .label {
-        font-size: 0.8rem;
-    }
-}
-
-@media (max-width: 480px) {
-    .countdown {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 1rem;
-    }
-    .countdown-container {
-        padding: 1.5rem;
-    }
-}
-
 .btn-container {
     display: flex;
     gap: 2rem;
@@ -207,14 +182,32 @@ h1 {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
     .btn-container {
         flex-direction: column;
         gap: 1rem;
     }
-
     .btn {
         width: 80%;
         margin: 0 auto;
+    }
+    .countdown {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .time-block {
+        padding: 1rem;
+    }
+    .number {
+        font-size: 2rem;
+    }
+    .label {
+        font-size: 0.8rem;
+    }
+    .countdown {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+    }
+    .countdown-container {
+        padding: 1.5rem;
     }
 }
