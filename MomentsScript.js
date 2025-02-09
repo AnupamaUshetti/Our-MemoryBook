@@ -31,6 +31,14 @@ const galleryPhotos = [
     {
         imgSrc: '/images/moments/sleeping _baby.jpeg',
         description: 'bla'
+    },
+    {
+        imgSrc: '/images/moments/LostInOurWorld.jpg',
+        description: 'City lights at night'
+    },
+    {
+        imgSrc: '/images/moments/MaaruDeepnSheiko.jpg',
+        description: 'bla'
     }
   ];
   

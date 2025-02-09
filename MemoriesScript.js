@@ -13,11 +13,11 @@ const galleryPhotos = [
       description: 'City lights at night'
   },
   {
-      imgSrc: '/images/memories/video_calls.jpg',
+      imgSrc: '/images/memories/Call.jpeg',
       description: 'bla'
   },
   {
-    imgSrc: '/images/memories/Sure my queen.jpg',
+    imgSrc: '/images/memories/Sure my queen.jpeg',
     description: 'Beautiful sunset at the beach'
   },
   {
@@ -75,6 +75,14 @@ const galleryPhotos = [
   {
       imgSrc: '/images/memories/great_satisfaction.jpeg',
       description: 'City lights at night'
+  },
+  {
+      imgSrc: '/images/memories/flower_girl_2.0.jpg',
+      description: 'Aneeyyyy my little flower, how can I handle this cuteness?!🥹🌸💖'
+  },
+  {
+      imgSrc: '/images/memories/Araliya_mal.jpg',
+      description: 'Araliya Mal = You. That’s it. Nothing more, Nothing less.🌼'
   }
 ];
 
