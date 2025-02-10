@@ -2,27 +2,27 @@
 const galleryPhotos = [
   {
       imgSrc: '/images/memories/first_photo.jpg',
-      description: 'Beautiful sunset at the beach'
+      description: 'Our very first photo together.📸❤️ PC: Janali Jayawardhana'
   },
   {
       imgSrc: '/images/memories/our_first_call.jpeg',
-      description: 'Mountain landscape in autumn'
+      description: 'Our first call. Well, not the actual first, but the first one that truly hit different. Ahhh... A whole hour of us.🥹📞❤️'
   },
   {
       imgSrc: '/images/memories/viva_kiss.jpg',
-      description: 'City lights at night'
+      description: 'Not the exact photo. but that day, before viva. And that forehead kiss... ahhh!🥹💖'
   },
   {
       imgSrc: '/images/memories/Call.jpeg',
-      description: 'bla'
+      description: 'Can you even imagine a 3 hour call? Well, this is it!😌📞❤️'
   },
   {
     imgSrc: '/images/memories/Sure my queen.jpeg',
-    description: 'Beautiful sunset at the beach'
+    description: 'Sure my queen👑. This snap makes me feel like a king.'
   },
   {
       imgSrc: '/images/memories/first_gift_forMe.jpg',
-      description: 'Mountain landscape in autumn'
+      description: 'You remember me, just as I always remember you.❤️'
   },
   {
       imgSrc: '/images/memories/different_icecream.jpg',
