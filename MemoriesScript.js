@@ -18,7 +18,7 @@ const galleryPhotos = [
   },
   {
     imgSrc: '/images/memories/Sure my queen.jpeg',
-    description: 'Sure my queen👑. This snap makes me feel like a king.'
+    description: 'Sure my queen👑. This snap makes me feel like a king.🧸❤️'
   },
   {
       imgSrc: '/images/memories/first_gift_forMe.jpg',
@@ -26,59 +26,59 @@ const galleryPhotos = [
   },
   {
       imgSrc: '/images/memories/different_icecream.jpg',
-      description: 'City lights at night'
+      description: 'Different ice cream, Same you.🍦'
   },
   {
       imgSrc: '/images/memories/my_little_pookie.jpeg',
-      description: 'bla'
+      description: 'Aaaaneeeee... My little pookieeeee...🥹'
   },
   {
       imgSrc: '/images/memories/happy_birthday_sweetheart.jpg',
-      description: 'Beautiful sunset at the beach'
+      description: 'My inner creative soul made this just for you.🎨❤️'
   },
   {
       imgSrc: '/images/memories/birthday_gift_forHer.jpg',
-      description: 'Mountain landscape in autumn'
+      description: 'This gift carries my whole heart and all my love for you.🎁'
   },
   {
       imgSrc: '/images/memories/birthday_cards.jpg',
-      description: 'City lights at night'
+      description: "Which one's better? No doubt, it's yours!😉❤️"
   },
   {
       imgSrc: '/images/memories/pinky_promises.jpg',
-      description: 'bla'
+      description: 'Remember, Pinky promises are never broken.🤞💖'
   },
   {
       imgSrc: '/images/memories/gift_that_make_you_happy.jpg',
-      description: 'Beautiful sunset at the beach'
+      description: "I'm sure this gift brought a smile to your face!🎁😊❤️"
   },
   {
       imgSrc: '/images/memories/rabbit_head.jpg',
-      description: 'Mountain landscape in autumn'
+      description: 'Pissu jooduwa!😜🐇💖'
   },
   {
       imgSrc: '/images/memories/snap_to_remember.jpg',
-      description: 'City lights at night'
+      description: 'A Snap to remeber.📸❤️'
   },
   {
       imgSrc: '/images/memories/little_things_makeMeHappy.jpg',
-      description: 'bla'
+      description: 'Some little things make me happy.🥹💖'
   },
   {
       imgSrc: '/images/memories/not_just_wallpaper.jpg',
-      description: 'Beautiful sunset at the beach'
+      description: "This is more than just a wallpaper, it’s a memory I’ll keep forever.💖🖼️"
   },
   {
       imgSrc: '/images/memories/flower_girl.jpg',
-      description: 'Mountain landscape in autumn'
+      description: "Thisssssss! I can remember the exact moment like it’s happening right now.🥹✨💖"
   },
   {
       imgSrc: '/images/memories/great_satisfaction.jpeg',
-      description: 'City lights at night'
+      description: 'Pure love brings the greatest satisfaction.💖✨'
   },
   {
       imgSrc: '/images/memories/flower_girl_2.0.jpg',
-      description: 'Aneeyyyy my little flower, how can I handle this cuteness?!🥹🌸💖'
+      description: 'Aneeyyyy mage punchiii Araliya maleeee, how can I handle this cuteness?!🥹🌸💖'
   },
   {
       imgSrc: '/images/memories/Araliya_mal.jpg',
