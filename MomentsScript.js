@@ -30,7 +30,7 @@ const galleryPhotos = [
     },
     {
         imgSrc: '/images/moments/sleeping _baby.jpeg',
-        description: 'Awwww... Who is that sleeping cutieee?💤😴💖'
+        description: "Awwww... Look who's sleepingggg.💤😴💖"
     },
     {
         imgSrc: '/images/moments/LostInOurWorld.jpg',
