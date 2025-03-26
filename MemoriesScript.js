@@ -1,87 +1,87 @@
 // Array of photos with their descriptions
 const galleryPhotos = [
   {
-      imgSrc: '/images/memories/first_photo.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'Our very first photo together.📸❤️ PC: Janali Jayawardhana'
   },
   {
-      imgSrc: '/images/memories/our_first_call.jpeg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'Our first call. Well, not the actual first, but the first one that truly hit different. Ahhh... A whole hour of us.🥹📞❤️'
   },
   {
-      imgSrc: '/images/memories/viva_kiss.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'Not the exact photo. but that day, before viva. And that forehead kiss... ahhh!🥹💖'
   },
   {
-      imgSrc: '/images/memories/Call.jpeg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'Can you even imagine a 3 hour call? Well, this is it!😌📞❤️'
   },
   {
-    imgSrc: '/images/memories/Sure my queen.jpeg',
+    imgSrc: '/images/moments/momentsBackground.jpg',
     description: 'Sure my queen👑. This snap makes me feel like a king.🧸❤️'
   },
   {
-      imgSrc: '/images/memories/first_gift_forMe.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'You remember me, just as I always remember you.❤️'
   },
   {
-      imgSrc: '/images/memories/different_icecream.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'Different ice cream, Same you.🍦'
   },
   {
-      imgSrc: '/images/memories/my_little_pookie.jpeg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'Aaaaneeeee... My little pookieeeee...🥹'
   },
   {
-      imgSrc: '/images/memories/happy_birthday_sweetheart.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'My inner creative soul made this just for you.🎨❤️'
   },
   {
-      imgSrc: '/images/memories/birthday_gift_forHer.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'This gift carries my whole heart and all my love for you.🎁'
   },
   {
-      imgSrc: '/images/memories/birthday_cards.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: "Which one's better? No doubt, it's yours!😉❤️"
   },
   {
-      imgSrc: '/images/memories/pinky_promises.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'Remember, Pinky promises are never broken.🤞💖'
   },
   {
-      imgSrc: '/images/memories/gift_that_make_you_happy.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: "I'm sure this gift brought a smile to your face!🎁😊❤️"
   },
   {
-      imgSrc: '/images/memories/rabbit_head.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'Pissu jooduwa!😜🐇💖'
   },
   {
-      imgSrc: '/images/memories/snap_to_remember.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'A Snap to remeber.📸❤️'
   },
   {
-      imgSrc: '/images/memories/little_things_makeMeHappy.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'Some little things make me happy.🥹💖'
   },
   {
-      imgSrc: '/images/memories/not_just_wallpaper.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: "This is more than just a wallpaper, it’s a memory I’ll keep forever.💖🖼️"
   },
   {
-      imgSrc: '/images/memories/flower_girl.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: "Thisssssss! I can remember the exact moment like it’s happening right now.🥹✨💖"
   },
   {
-      imgSrc: '/images/memories/great_satisfaction.jpeg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'Pure love brings the greatest satisfaction.💖✨'
   },
   {
-      imgSrc: '/images/memories/flower_girl_2.0.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'Aneeyyyy mage punchiii Araliya maleeee, how can I handle this cuteness?!🥹🌸💖'
   },
   {
-      imgSrc: '/images/memories/Araliya_mal.jpg',
+      imgSrc: '/images/moments/momentsBackground.jpg',
       description: 'Araliya Mal = You. That’s it. Nothing more, Nothing less.🌼'
   }
 ];

@@ -1,43 +1,43 @@
 // Array of photos with their descriptions
 const galleryPhotos = [
     {
-        imgSrc: '/images/moments/galleface.jpg',
+        imgSrc: '/images/memories/memoriesBackground.jpg',
         description: 'The very first day we went to Galle Face.🌊❤️'
     },
     {
-        imgSrc: '/images/moments/first_royal_event.jpg',
+        imgSrc: '/images/memories/memoriesBackground.jpg',
         description: 'Our first Royal event as a couple!💙💛💙 You looked a bit less interested that day. But baba, there are so many more events to enjoy.😉✨'
     },
     {
-        imgSrc: '/images/moments/selfie_time.jpg',
+        imgSrc: '/images/memories/memoriesBackground.jpg',
         description: 'The day after a moment I truly smiled with you.😊❤️'
     },
     {
-        imgSrc: '/images/moments/chill_duo.jpg',
+        imgSrc: '/images/memories/memoriesBackground.jpg',
         description: 'Just us, chilling together.❄️✨'
     },
     {
-      imgSrc: '/images/moments/rio.jpeg',
+      imgSrc: '/images/memories/memoriesBackground.jpg',
       description: 'The day we went to Rio. Good vibes, great food, and memories worth keeping.🍧✨'
     },
     {
-        imgSrc: '/images/moments/gal_beach.jpg',
+        imgSrc: '/images/memories/memoriesBackground.jpg',
         description: 'What was that place? But I still got that feeling on that day.✨'
     },
     {
-        imgSrc: '/images/moments/bandi_full.jpeg',
+        imgSrc: '/images/memories/memoriesBackground.jpg',
         description: 'Al-Mass biriyani + 2 full Bandi gedies.🍽️😋'
     },
     {
-        imgSrc: '/images/moments/sleeping _baby.jpeg',
+        imgSrc: '/images/memories/memoriesBackground.jpg',
         description: "Awwww... Look who's sleepingggg.💤😴💖"
     },
     {
-        imgSrc: '/images/moments/LostInOurWorld.jpg',
+        imgSrc: '/images/memories/memoriesBackground.jpg',
         description: "Yes, it's Port City. But on that day, it was our own world. How can I forget those feelings and memories? 🏙️💖"
     },
     {
-        imgSrc: '/images/moments/MaaruDeepnShiok.jpg',
+        imgSrc: '/images/memories/memoriesBackground.jpg',
         description: 'A flavorful meal in our own little world.🍽️💫 Maaru deepn Shiok.😅'
     }
   ];
